@@ -4,7 +4,7 @@
 - 1x Flex Sensor
 - 1x LCD 16x2
 - 1x Arduino
-- 1x 1K Potentiometer
+- 1x 10K Potentiometer
 - 1x 220 Potentiometer
 - 1x 10K Resistor
 - 1x Switch
@@ -53,5 +53,5 @@
     - Adjust the potentiometers to set the LCD contrast and background contrast for better visibility.
 
 ## Final Diagram
-Your circuit must look like this when you click start button
+Your circuit will look like this when you click start simulation button
 ![Circuit Diagram](https://github.com/mohamedsameh108/Stresses-Analysis-3rd-Project/blob/main/runningCircuit.png)
