@@ -54,4 +54,6 @@
 
 ## Final Diagram
 Your circuit will look like this when you click start simulation button
-![Circuit Diagram](https://github.com/mohamedsameh108/Stresses-Analysis-3rd-Project/blob/main/runningCircuit.png)
+![Circuit Diagram](https://github.com/mohamedsameh108/Stresses-Analysis-3rd-Project/blob/main/runningCircuitD.png)
+And if you switched to rad it will look like that
+![Circuit Diagram](https://github.com/mohamedsameh108/Stresses-Analysis-3rd-Project/blob/main/runningCircuitR.png)
